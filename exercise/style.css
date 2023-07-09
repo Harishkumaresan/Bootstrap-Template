@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg{
+    background-image: url("./img/mainpic.jpg");
+    background-size: cover;
+    height: 520px;
+    width: 100%;
+    position: relative;
+}
+.firstpage{
+    text-align: left;
+    bottom: 50px;
+    margin-bottom: 200px;
+    align-items: center;
+    
+}
+#head1{
+    color: rgb(233, 233, 11);
+}
+#head2{
+    color: whitesmoke;
+}
+.headerbar{
+    margin-bottom: 0px;
+}
+.secondframe{
+    height: 100px;
+    margin-top: 50px;
+}
+#img{
+    width: 100%;
+    height: auto;
+}
+.thirdframe{
+    margin-top: 50px;
+
+}
+.slider .carousel-control-left .left, .slider .carousel-control-right .right{
+    background-image: none;
+}
+.capttionsa{
+    text-align: center;
+    color: black;
+}
+.fourth-frame-head{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.hr{
+    color: rgb(169, 243, 21);
+    border: 3px solid yellow;
+    border-radius: 5px;
+}
+.fourth-frame-btn{
+    background-color: yellow;
+    background-position: center;
+    border: 10px solid yellow;
+}
+.fifth{
+    background-color: black;
+    margin-top: 50px;
+    padding-bottom: 25px;
+}
+.fifth h1{
+    color: orange;
+}
+.fifth p{
+    color: whitesmoke;
+}
+.fourpage .img-responsive{
+    margin: 30px 0;
+}
+.head .headerbar{
+    background-color: aquamarine;
+}
+
+.fa{
+    color: darkorange;
+}
+.secondframe .img-responsive{
+    width: 350px;
+    height: 250px;
+}
+.secondframe{
+    line-height: 25px;
+}
+.immg{
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 70px;
+}
+.foot{
+    background-color: black;
+    margin-top: 50px;
+}
+.foot .img-responsive{
+    width: 80px;
+    height: 60px;
+    margin-left: 550px;
+    margin-top: 20px;
+}
+.foot p{
+    margin-top: 14px;
+    color: darkolivegreen;
+}
+.foot h5{
+    color: white;
+}
+.fa1{
+    color: aqua;
+}
+.email{
+    background: none;
+}
+.navbar-toggle {
+    position: relative;
+    float: right;
+    padding: 9px 10px;
+    margin-right: 15px;
+    margin-bottom: 30px;
+    border-radius: 4px;
+    background-color: black;
+}
+.navbar-toggler-icon{
+    color: beige;
+}
+.hr1{
+    width: 60px;
+    border-color: yellowgreen;
+    border-top: 4px solid yellowgreen;
+}
+.sideview li{
+    margin-top: 10px;
+}
+.faa{
+    background-color: whitesmoke;
+    border-radius: 50px;
+    padding: 8px 8px 8px 8px;
+    font-size: 15px;
+}
+.a{
+    color: black;
+}
+.thirdd{
+    background: url("./img/mainpic.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    margin-top: 50px;
+}
+.textx{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 100px;
+    color: antiquewhite;
+}
+.fa2{
+    background-color: orange;
+    color: white;
+    padding: 8px 8px 8px 8px;
+    margin-top: 20px;
+    border-radius: 50px;
+}
+#colortext{
+    color: antiquewhite;
+    line-height: 25px;
+}
+.aa li{
+    background-color: rgb(11, 11, 11);
+    width: 45px !important;
+    display: inline-flex;
+    bottom: 0;
+}
+.aa{
+    display: inline;
+    background-color: black;
+    position: absolute;
+    margin-top: 250px;
+    right: 0;
+}
+.headerbar{
+    margin-bottom:0px !important;
+}
+.sliderrr .carousel-control-left .left, .sliderrr .carousel-control-right .right{
+    background-image: none;
+}
+.sliderrr .carousel-control-right .right{
+    right: -1;
+}
+.heading{
+    font-size: 23px;
+    font-weight: bold;
+}
+.heading1{
+    font-weight: bold;
+}
+.aaaa{
+    display: inline-block;
+    background-color: black;
+    position: absolute;
+    margin-top: 500px;
+    right: 0;
+}
+.aaaa li{
+    background-color: black;
+    width: 45px;
+    display: inline-flex;
+    bottom: 0;
+}
